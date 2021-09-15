@@ -11,6 +11,7 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/malforsaja)
 
+- 📧 Mail me at malfor.saja@gmail.com
 
 **Languages and Tools:**  
 
