@@ -5,7 +5,7 @@
 
 **About me**
 
-- 💼 BackEnd Engineer at [AirFind](https://airfind.com/)
+- 💼 BackEnd Engineer
 
 - ❤️ I love writing on JavaScript, TypeScript, and building fun experiments with new tools.
 
