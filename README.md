@@ -5,7 +5,7 @@
 
 **About me**
 
-- 💼 BackEnd Engineer
+- 💼 BackEnd Engineer [Tarmac](https://www.tarmac.io)
 
 - ❤️ I love writing on JavaScript, TypeScript, and building fun experiments with new tools.
 
@@ -21,6 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
 <a href="https://github.com/malforsaja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malforsaja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Malfor's github stats" /></a> 
