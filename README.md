@@ -5,11 +5,9 @@
 
 **About me**
 
-- 💼 BackEnd Engineer [Tarmac](https://www.tarmac.io)
+- 💼 BackEnd Engineer
 
 - ❤️ I love writing on JavaScript, TypeScript, and building fun experiments with new tools.
-
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/malforsaja)
 
 - 📧 Mail me at malfor.saja@gmail.com
 
